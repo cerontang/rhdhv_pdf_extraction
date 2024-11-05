@@ -1,0 +1,30 @@
+# Ignore all content from these folders completely
+/img/
+/img_fugro/
+/img_greenway/
+/img_test/
+/output/
+/build/
+/dist/
+/csv/
+/pdf/
+/Pier 2 Individual Grouting Records - Received 19/
+
+# Ignore contents of img_select but keep structure
+/img_select/*
+!img_select/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# IDE
+.idea/
+*.iml
+
+# Windows specific
+*.dll
+xlwings*.dll
