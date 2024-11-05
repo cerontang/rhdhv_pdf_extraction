@@ -1,0 +1,43 @@
+# Image folders
+/img/
+/img_fugro/
+/img_greenway/
+/img_select/
+/img_test/
+
+# Output and data folders
+/output/
+/build/
+/dist/
+/csv/
+/pdf/
+/Pier 2 Individual Grouting Records - Received 19/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Virtual Environment
+venv/
+env/
+
+# IDE
+.idea/
+*.iml
+
+# Windows specific
+*.dll
+xlwings*.dll
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Database files
+*.db
+*.sqlite3
